@@ -1,0 +1,40 @@
+.navbarDropdown{
+	align-items: flex-end;
+
+}
+
+#navbar-home{
+background-color:#bd2130;
+}
+
+/*#navbarsupportcontent{
+	color: #fff;
+}*/
+
+.brand{
+	font-weight: bold;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    height: 550px;
+}
+.para{
+	display: flex;
+	align-items: space-between;
+}
+
+.row2{
+
+	display: flex;
+	margin-top:10px ;
+
+}
+
+.link {
+	color: white;
+}
+
+.footer{
+	background-color:#bd2130;
+	width: 100%;
+	margin-top: 10px;
+}
